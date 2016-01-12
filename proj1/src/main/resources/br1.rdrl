@@ -4,4 +4,5 @@ rule "br1"
 	dialect "mvel"
 	when
 	then
+		System.out.println("xxxxx");
 end
