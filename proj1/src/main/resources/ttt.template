@@ -4,9 +4,30 @@
   <attributes/>
   <metadataList/>
   <lhs>
-    <compositePattern>
-      <type>exists</type>
-    </compositePattern>
+    <fact>
+      <constraintList>
+        <constraints>
+          <fieldConstraint>
+            <value>$v1</value>
+            <operator>==</operator>
+            <constraintValueType>7</constraintValueType>
+            <expression>
+              <parts/>
+              <index>2147483647</index>
+            </expression>
+            <parameters/>
+            <factType>Number</factType>
+            <fieldName>this</fieldName>
+            <fieldType>this</fieldType>
+          </fieldConstraint>
+        </constraints>
+      </constraintList>
+      <factType>Number</factType>
+      <isNegated>false</isNegated>
+      <window>
+        <parameters/>
+      </window>
+    </fact>
   </lhs>
   <rhs/>
   <imports>
@@ -24,6 +45,13 @@
       <list>
         <string>1</string>
         <string>2</string>
+      </list>
+    </entry>
+    <entry>
+      <string>$v1</string>
+      <list>
+        <string></string>
+        <string></string>
       </list>
     </entry>
   </table>
