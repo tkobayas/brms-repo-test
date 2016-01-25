@@ -6,7 +6,7 @@
   <artifactId>proj1</artifactId>
   <version>1.0</version>
   <name>proj1</name>
-  <description>iiiixxxccczzzzcccxxxxxbbbbbbbbmmmmvvvvbbbb</description>
+  <description>iiiixxxccczzzzcccxxxxxbbbbbbbbmmmmvvvvbbbbccc</description>
   <build>
     <plugins>
       <plugin>
