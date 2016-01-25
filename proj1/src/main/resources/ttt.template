@@ -3,7 +3,11 @@
   <modelVersion>1.0</modelVersion>
   <attributes/>
   <metadataList/>
-  <lhs/>
+  <lhs>
+    <compositePattern>
+      <type>exists</type>
+    </compositePattern>
+  </lhs>
   <rhs/>
   <imports>
     <imports/>
